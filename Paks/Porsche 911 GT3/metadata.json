@@ -1,0 +1,20 @@
+{
+  "name": "Porsche 911 GT3",
+  "author": "Made by Zyron",
+  "cardDescription": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite v8.51",
+  "description": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite v8.51\n\n**Includes:**\n- Custom vehicle mesh\n- Custom sounds\n- Custom stats such as top speed and acceleratio\n\n**Spawn Command:**\n\n`cheat summon /Game/Athena/DrivableVehicles/PorscheVehicle.PorscheVehicle_C`",
+  "version": "8.51",
+  "tags": ["Custom Vehicle"],
+  "cardImage": "Content/PorschePreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/PorschePreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Porsche%20911%20GT3",
+  "files": [
+    "pakchunkPorsche-WindowsClient.pak",
+    "pakchunkPorsche-WindowsClient.sig"
+  ]
+}

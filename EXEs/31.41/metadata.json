@@ -1,0 +1,22 @@
+{
+  "name": "Chapter 5 Season 4 - Patched EXE",
+  "author": "Made by Stern & Mariki",
+  "cardDescription": "Allows for v31.41 to launch and bypass previous EAC protections",
+  "description": "Allows for v31.41 to launch and bypass previous EAC protections\n\n---\n\nNote: May require external DLLs to run properly",
+  "version": "31.41",
+  "tags": ["Patched EXE"],
+  "cardImage": "Content/DoomPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DoomPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/EXEs/31.41",
+  "files": [
+    {
+      "name": "FortniteClient-Win64-Shipping.exe",
+      "url": "https://drive.google.com/file/d/1FgcSG00PIYn_XE7mgOT76O29hoo5hmJ3/view?usp=drive_link"
+    }
+  ]
+}

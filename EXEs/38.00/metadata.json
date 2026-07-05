@@ -1,0 +1,22 @@
+{
+  "name": "Chapter 6 Season Simpsons - Patched EXE",
+  "author": "Made by Stern & Mariki",
+  "cardDescription": "Allows for v38.00 to launch and bypass previous EAC protections",
+  "description": "Allows for v38.00 to launch and bypass previous EAC protections\n\n---\n\nNote: May require external DLLs to run properly",
+  "version": "38.00",
+  "tags": ["Patched EXE"],
+  "cardImage": "Content/SimpsonsPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/SimpsonsPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/EXEs/38.00",
+  "files": [
+    {
+      "name": "FortniteClient-Win64-Shipping.exe",
+      "url": "https://drive.google.com/file/d/17ISn26XKE2dRaWc26-2Rzb8VfP-hZzbS/view?usp=drive_link"
+    }
+  ]
+}

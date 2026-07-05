@@ -1,0 +1,22 @@
+{
+  "name": "Chapter 6 Season 1 - Patched EXE",
+  "author": "Made by Stern & Mariki",
+  "cardDescription": "Allows for v33.30 to launch and bypass previous EAC protections",
+  "description": "Allows for v33.30 to launch and bypass previous EAC protections\n\n---\n\nNote: May require external DLLs to run properly",
+  "version": "33.30",
+  "tags": ["Patched EXE"],
+  "cardImage": "Content/HuntersPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/HuntersPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/EXEs/33.30",
+  "files": [
+    {
+      "name": "FortniteClient-Win64-Shipping.exe",
+      "url": "https://drive.google.com/file/d/1PrR-OJo4Obzzw7UyWy1gOKmAg52kSyjB/view?usp=drive_link"
+    }
+  ]
+}

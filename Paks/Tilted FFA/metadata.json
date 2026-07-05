@@ -1,0 +1,29 @@
+{
+  "name": "Tilted FFA",
+  "author": "Made by Jett",
+  "cardDescription": "Ports the Tilted FFA gamemode into Fortnite v27.11",
+  "description": "Ports the Tilted FFA gamemode into Fortnite v27.11\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Tilted FFA\" playlist",
+  "version": "27.11",
+  "dependencies": ["EXEs/27.11"],
+  "tags": ["Custom Map"],
+  "cardImage": "Content/TiltedFFAPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/TiltedFFAPreview.png",
+      "label": "Tilted FFA Preview"
+    },
+    {
+      "type": "image",
+      "path": "Content/TiltedFFASpawn.png",
+      "label": "Spawn Preview"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Tilted%20FFA",
+  "files": [
+    "pakchunk68-WindowsClient_P.pak",
+    "pakchunk68-WindowsClient_P.sig",
+    "pakchunk68-WindowsClient_P.ucas",
+    "pakchunk68-WindowsClient_P.utoc"
+  ]
+}

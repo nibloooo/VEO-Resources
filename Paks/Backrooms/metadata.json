@@ -1,0 +1,20 @@
+{
+  "name": "Backrooms",
+  "author": "Made by boredcrow24",
+  "cardDescription": "Custom made Backrooms for Fortnite v7.40",
+  "description": "Custom made Backrooms Map for Fortnite v7.40, can you find a way out? Or find the 3 secrets in this map?\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Backrooms Map\" playlist",
+  "version": "7.40",
+  "tags": ["Custom Map"],
+  "cardImage": "Content/BackroomsPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/BackroomsPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Backrooms",
+  "files": [
+    "pakchunkBackrooms-WindowsClient.pak",
+    "pakchunkBackrooms-WindowsClient.sig"
+  ]
+}

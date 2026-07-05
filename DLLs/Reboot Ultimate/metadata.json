@@ -1,0 +1,24 @@
+{
+  "name": "Reboot Ultimate",
+  "author": "Made by Ralzify",
+  "cardDescription": "Reboot Ultimate is a rewrite of the original Project Reboot 3.0. This version of Reboot strives for adding new things to Reboot, while keeping it all stable",
+  "description": "Reboot Ultimate is a rewrite of the original Project Reboot 3.0. This version of Reboot strives for adding new things to Reboot, while keeping it all stable",
+  "version": "1-19",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    },
+    {
+      "type": "image",
+      "path": "Content/DLLPreview2.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/DLLs/Reboot%20Ultimate",
+  "files": [
+    "Reboot Ultimate V1.dll"
+  ]
+}

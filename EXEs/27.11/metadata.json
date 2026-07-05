@@ -1,0 +1,22 @@
+{
+  "name": "Chapter 4 Season OG - Patched EXE",
+  "author": "Made by Gav",
+  "cardDescription": "Allows for PAKs to function correctly and general modability for Fortnite v27.11",
+  "description": "Allows for PAKs to function correctly and general modability for Fortnite v27.11",
+  "version": "27.11",
+  "tags": ["Patched EXE"],
+  "cardImage": "Content/OGPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/OGPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/EXEs/27.11",
+  "files": [
+    {
+      "name": "FortniteClient-Win64-Shipping.exe",
+      "url": "https://drive.google.com/file/d/1bDksd3tNtOZ_GWN-tE5LGWpaon20fhMC/view?usp=drive_link"
+    }
+  ]
+}

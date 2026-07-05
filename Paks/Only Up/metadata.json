@@ -1,0 +1,23 @@
+{
+  "name": "Only Up",
+  "author": "Made by Jett",
+  "cardDescription": "Ports the Only Up gamemode into Fortnite v27.11",
+  "description": "Ports the Only Up gamemode into Fortnite v27.11\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Only Up\" playlist",
+  "version": "27.11",
+  "dependencies": ["EXEs/27.11"],
+  "tags": ["Custom Map"],
+  "cardImage": "Content/OnlyUpPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/OnlyUpPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Only%20Up",
+  "files": [
+    "pakchunk67-WindowsClient_P.pak",
+    "pakchunk67-WindowsClient_P.sig",
+    "pakchunk67-WindowsClient_P.ucas",
+    "pakchunk67-WindowsClient_P.utoc"
+  ]
+}

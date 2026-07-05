@@ -1,0 +1,29 @@
+{
+  "name": "Gav's 1v1 Map",
+  "author": "Made by Gav",
+  "cardDescription": "Includes a proper 1v1 map and allows for practice on Fortnite v27.11",
+  "description": "Includes a proper 1v1 map and allows for practice on Fortnite v27.11\n\n**Features:**\n- Change the background by pressing Insert\n- Arena Points included\n- No Fall Damage\n- Spawn loadout: Blue AR, Gold Pump, Skye Grappler, Mini Shields\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Gav 1v1 Map\" playlist",
+  "version": "27.11",
+  "dependencies": ["EXEs/27.11"],
+  "tags": ["Custom Map"],
+  "cardImage": "Content/1v1Preview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/1v1Preview.png",
+      "label": "1v1 Map Preview"
+    },
+    {
+      "type": "gif",
+      "path": "Content/1v1sky.gif",
+      "label": "Sky Background Preview"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Gav's%201v1%20Map",
+  "files": [
+    "z_pakchunk5003-WindowsClient_P.pak",
+    "z_pakchunk5003-WindowsClient_P.sig",
+    "z_pakchunk5003-WindowsClient_P.ucas",
+    "z_pakchunk5003-WindowsClient_P.utoc"
+  ]
+}

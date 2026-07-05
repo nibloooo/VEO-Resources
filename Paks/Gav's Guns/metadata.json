@@ -1,0 +1,23 @@
+{
+  "name": "Gav's Guns",
+  "author": "Made by Gav",
+  "cardDescription": "Adds custom weapons for Fortnite v27.11, including options useful for trickshotting",
+  "description": "Adds a collection of custom weapons for Fortnite v27.11, including options useful for trickshotting.\n\n**Rideable Weapons/Items:**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Hook_Gun_Ride.WID_Hook_Gun_Ride`\n- `cheat giveitem /Game/Gav/Weapons/WID_Athena_PurpleMouse_Ride.WID_Athena_PurpleMouse_Ride`\n- `cheat giveitem /Game/Gav/Weapons/WID_Launcher_HomingRocket_Athena_Ride.WID_Launcher_HomingRocket_Athena_Ride`\n- `cheat giveitem /Game/Gav/Weapons/WID_Launcher_Military_Athena_Ride.WID_Launcher_Military_Athena_Ride`\n- `cheat giveitem /Game/Gav/Weapons/WID_GrenadeLauncher_Prox_Athena_Ride.WID_GrenadeLauncher_Prox_Athena_Ride`\n- `cheat giveitem /Game/Gav/Weapons/AGID_Lotus_Mustache_Ride.AGID_Lotus_Mustache_Ride`\n\n**Self-Ridable Weapons/Items:**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Launcher_Military_Athena_Ride_Self.WID_Launcher_Military_Athena_Ride_Self`\n- `cheat giveitem /Game/Gav/Weapons/WID_Launcher_Rocket_Athena_Self.WID_Launcher_Rocket_Athena_Self`\n\n**Low Gravity Grappler (Ability to Grapple any Projectile):**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Hook_Gun_Ride_Low.WID_Hook_Gun_Ride_Low`\n\n**Jules Grappler (Ability to Grapple any Projectile):**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Boss_GrapplingHoot_Ride.WID_Boss_GrapplingHoot_Ride`\n\n**Low Gravity Jules Grappler (Ability to Grapple any Projectile):**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Boss_GrapplingHoot_Ride_Low.WID_Boss_GrapplingHoot_Ride_Low`\n\n**OG Bolt:**\n\n- `cheat giveitem /Game/Gav/Weapons/OG/WID_Sniper_BoltAction_Scope_Athena_OG.WID_Sniper_BoltAction_Scope_Athena_OG`\n\n**Flint-Knock SMG:**\n\n- `cheat giveitem /Game/Gav/Weapons/WID_Pistol_Scavenger_Athena_Flint.WID_Pistol_Scavenger_Athena_Flint`",
+  "version": "27.11",
+  "dependencies": ["EXEs/27.11"],
+  "tags": ["Custom Weapons"],
+  "cardImage": "Content/ItemPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/ItemPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Gav%27s%20Guns",
+  "files": [
+    "z_pakchunk5000-WindowsClient_P.pak",
+    "z_pakchunk5000-WindowsClient_P.sig",
+    "z_pakchunk5000-WindowsClient_P.ucas",
+    "z_pakchunk5000-WindowsClient_P.utoc"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "14.60 Pak Authenticator",
+  "author": "Made by Unknown",
+  "cardDescription": "Helps verify your files and authenticates the player during launch, making sure the game properly recognizes and loads the content inside the pak so everything works correctly",
+  "description": "Helps verify your files and authenticates the player during launch, making sure the game properly recognizes and loads the content inside the pak so everything works correctly",
+  "version": "14.60",
+  "tags": ["Pak Authenticator"],
+  "dataSlot": "authentication",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/DLLs/14.60%20Pak%20Authenticator",
+  "files": [
+    "14.60 Pak Authenticator.dll"
+  ]
+}

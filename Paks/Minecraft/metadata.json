@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft",
+  "author": "Made by Brux",
+  "cardDescription": "Re-textures Fortnite v6.21-6.31 with a Minecraft-inspired weapons and world",
+  "description": "Re-textures Fortnite v6.21-6.31 with a Minecraft-inspired world style\n\n**Includes:**\n- Minecraft-themed Visual\n- Two custom weapons\n\n**Items:**\n\n1. Diamond Axe\n\n   `cheat giveitem WID_Edged_Axe_Medium_C_Ore_T01`\n\n2. Minecraft Crossbow\n\n   `cheat giveitem WID_Special_FiendHunter_Athena_VR_Ore_T03`",
+  "version": "6.21-6.31",
+  "tags": ["Texture Pack"],
+  "cardImage": "Content/MinecraftPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/MinecraftPreview.png"
+    },
+    {
+      "type": "video",
+      "path": "Content/MinecraftVideo.mp4"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Minecraft",
+  "files": [
+    "pakchunkMCWorld-WindowsClient.pak",
+    "pakchunkMCWorld-WindowsClient.sig"
+  ]
+}

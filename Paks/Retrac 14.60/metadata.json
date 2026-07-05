@@ -1,0 +1,35 @@
+{
+  "name": "Retrac 14.60 Pak",
+  "author": "Made by Project Retrac",
+  "cardDescription": "Allows you to play locally with Retrac content on Fortnite v14.60",
+  "description": "Allows you to play locally with Retrac content on Fortnite v14.60\n\n---\n\nNote: Requires athena profile and authenticator files",
+  "version": "14.60",
+  "dependencies": ["DLLs/14.60 Pak Authenticator"],
+  "tags": ["Custom Cosmetics"],
+  "cardImage": "Content/RetracPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/RetracPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Retrac%2014.60",
+  "files": [
+    {
+      "name": "pakchunk2004-WindowsClient_P.pak",
+      "url": "https://drive.google.com/file/d/1A87RQOBuZP-OUtxXI3-atoZfFFQre7OJ/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunk2004-WindowsClient_P.sig",
+      "url": "https://drive.google.com/file/d/1yN9aM7it18t_SODg2RT2VZ6asTiwXwfs/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunk2004-WindowsClient_P.ucas",
+      "url": "https://drive.google.com/file/d/1XL7Uve9xUQipoUJPp-wAUubHHKtoTXVY/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunk2004-WindowsClient_P.utoc",
+      "url": "https://drive.google.com/file/d/1-K5CcfiUbv5syIP-8v0JK3u7eMCxhAEo/view?usp=drive_link"
+    }
+  ]
+}
