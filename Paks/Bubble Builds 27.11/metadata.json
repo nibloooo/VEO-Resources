@@ -1,0 +1,34 @@
+{
+  "name": "27.11 Bubble Builds",
+  "author": "Made by Unknow",
+  "cardDescription": "Allows you to have Bubble Builds on version 27.1",
+  "description": "Allows you to have Bubble Builds on version 27.1",
+  "version": "27.11",
+  "tags": ["Bubble Builds"],
+  "cardImage": "Content/BubbleBuildsPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/BubbleBuildsPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Retrac%2014.60",
+  "files": [
+    {
+      "name": "pakchunkBB-WindowsClient_P.pak",
+      "url": "https://drive.google.com/file/d/1A87RQOBuZP-OUtxXI3-atoZfFFQre7OJ/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunkBB-WindowsClient_P.sig",
+      "url": "https://drive.google.com/file/d/1yN9aM7it18t_SODg2RT2VZ6asTiwXwfs/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunkBB-WindowsClient_P.ucas",
+      "url": "https://drive.google.com/file/d/1XL7Uve9xUQipoUJPp-wAUubHHKtoTXVY/view?usp=drive_link"
+    },
+    {
+      "name": "pakchunkBB-WindowsClient_P.utoc",
+      "url": "https://drive.google.com/file/d/1-K5CcfiUbv5syIP-8v0JK3u7eMCxhAEo/view?usp=drive_link"
+    }
+  ]
+}
